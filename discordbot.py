@@ -4,7 +4,7 @@ import random
 
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzY3NzI4MDE4OTk1MDE5Nzg3.X42Ibw.v9OC5i5PAjyHKr7QqWTHhZTTlGc'
+TOKEN = ''
 
 CHANNEL_ID = 766900458504847412 # 任意のチャンネルID(int)
 CHANNEL_ID_WATCHING = 726401343744376863
